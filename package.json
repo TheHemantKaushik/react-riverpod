@@ -1,0 +1,25 @@
+{
+  "name": "react-riverpod",
+  "version": "1.0.0",
+  "description": "React implementation for https://riverpod.dev/",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Hemant Kaushik",
+  "license": "MIT",
+  "homepage": "https://github.com/TheHemantKaushik/react-riverpod#readme",
+  "bugs": {
+    "url": "https://github.com/TheHemantKaushik/react-riverpod/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://TheHemantKaushik@github.com/TheHemantKaushik/react-riverpod.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "publish": "npm publish --access public"
+  },
+  "devDependencies": {
+    "typescript": "5.0.2"
+  }
+}
